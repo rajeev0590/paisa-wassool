@@ -1,9 +1,20 @@
 
-**Paisa Wassool**
+**Finan Smart**
 
-Paisa Wassool is an AI-powered finance tracker and advisor website that helps users manage their budgets, expenses, and incomes with intuitive visualizations. Built with Next.js, Neon, and Drizzle ORM, it provides insightful graphs and data visualizations to help users make informed financial decisions.
+Finan Smart is an AI-powered finance tracker and advisor website that helps users manage their budgets, expenses, and incomes with intuitive visualizations. Built with Next.js, Neon, and Drizzle ORM, it provides insightful graphs and data visualizations to help users make informed financial decisions.
 
+## 🚀 Live Demo
 
+Check out the live version of the project here:  
+👉 [Live Demo]((https://paisa-wassool.vercel.app/))
+
+Explore all features in real-time:
+- Track and categorize your income and expenses
+- Visualize financial trends through interactive graphs
+- Get AI-powered recommendations for budgeting and saving
+- Experience a secure and responsive user interface
+
+Feel free to try it out and share your feedback!
 
 **Features**
 
