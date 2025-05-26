@@ -6,7 +6,7 @@ Finan Smart is an AI-powered finance tracker and advisor website that helps user
 ## 🚀 Live Demo
 
 Check out the live version of the project here:  
-👉 [Live Demo]([https://your-live-demo-link.com](https://paisa-wassool.vercel.app/))
+👉 [Finan Smart – Live Demo](https://paisa-wassool.vercel.app/)
 
 Explore all features in real-time:
 - Track and categorize your income and expenses
